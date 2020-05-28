@@ -1,0 +1,8 @@
+{
+  "font": {
+    "family": {
+      "headers" : { "value": "MuseoSansRounded-500" },
+      "base"    : { "value": "{font.platform.system.value}" }
+    }
+  }
+}

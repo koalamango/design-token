@@ -1,0 +1,24 @@
+{
+  "color": {
+    "brand": {
+      "color-dark-blue--100" : { "value": "#EDEAF5" },
+      "color-dark-blue--200" : { "value": "#DAD2EA" },
+      "color-dark-blue--300" : { "value": "#A896CF" },
+      "color-dark-blue--500" : { "value": "#2E008B" },
+      "color-dark-blue--800" : { "value": "#22006C" },
+      "color-dark-blue--900" : { "value": "#13003D" },
+      "color-magenta--100" : { "value": "#FDEAF5" },
+      "color-magenta--200" : { "value": "#FBD3EB" },
+      "color-magenta--300" : { "value": "#F796D0" },
+      "color-magenta--500" : { "value": "#EC008C" },
+      "color-magenta--800" : { "value": "#BB0071" },
+      "color-magenta--900" : { "value": "#710044" },
+      "color-cyan--100" : { "value": "#E3F7FD" },
+      "color-cyan--200" : { "value": "#C3EFFA" },
+      "color-cyan--300" : { "value": "#77DAF5" },
+      "color-cyan--500" : { "value": "#00B6ED" },
+      "color-cyan--800" : { "value": "#0093BC" },
+      "color-cyan--900" : { "value": "#005870" }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cruk_design_tokens",
+  "version": "0.0.1",
+  "description": "CRUK Design Tokens",
+  "main": "build/index.js",
+  "files": [
+    "build",
+    "properties"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dt": "style-dictionary init basic",
+    "build-dt": "style-dictionary build",
+    "build": "node ./build.js",
+    "clean": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRUKorg/cruk_design_tokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRUKorg/cruk_design_tokens/issues"
+  },
+  "homepage": "https://github.com/CRUKorg/cruk_design_tokens#readme",
+  "devDependencies": {
+    "style-dictionary": "^2.8.2"
+  }
+}

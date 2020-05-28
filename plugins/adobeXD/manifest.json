@@ -1,0 +1,23 @@
+{
+  "name" : "cruk-tokens",
+  "host" : {
+    "app" : "XD",
+    "minVersion" : "21.0"
+  },
+  "id" : "0febdfd6",
+  "icons" : [ {
+    "path" : "images/icon@1x.png",
+    "width" : 24,
+    "height" : 24
+  }, {
+    "path" : "images/icon@2x.png",
+    "width" : 48,
+    "height" : 48
+  } ],
+  "uiEntryPoints" : [ {
+    "label" : "Load brand color",
+    "type" : "menu",
+    "commandId" : "loadColor"
+  } ],
+  "version" : "0.0.1"
+}
